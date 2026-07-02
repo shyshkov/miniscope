@@ -1,0 +1,17 @@
+# Local notes, scratch (not published)
+/notes/
+
+# Runtime data dir written by cmd/metricsd (block files)
+/miniscope-data/
+*.msb
+
+# Go build output
+/bin/
+*.exe
+*.test
+*.out
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
